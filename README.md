@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @JavIgna
+- 👨‍💻 I currently work as a FrontEnd Development with Vue.js
 - 🤖 I'm graduate as analyst programmer
 - 👀 I’m interested in working with various programming languages
 - 🌱 I’m currently learning Laravel, Bootstrap, React.js, PHP, JAVA and Arduino
