@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @JavIgna
-- 👨‍💻 I currently work as a FrontEnd Development with Vue.js
-- 🤖 I'm graduate as analyst programmer
+- 👋 Hi, I’m Javier Navarrete
+- 👨‍🎓 Analyst programmer
+- 📫 Contact me by email javignavarrete@gmail.com
+- 👨‍💻 I currently work as a FullStack Development with Vue.js
 - 👀 I’m interested in working with various programming languages
-- 🌱 I’m currently learning JavaScript, React.js, Vue.js, Node.js, Laravel, Bootstrap, PHP, JAVA and Arduino
+- 🌱 I’m currently learning React.js and Firebase.
+- 💻 I have knowledge in Vue.js, Node.js, Laravel, Bootstrap, PHP, JAVA and Arduino
 - 💞️ I’m looking to collaborate on projects that allow me to apply and learn new technologies
-- 📫 You can contact me by email javignavarrete@gmail.com
 
 <!---
 JavIgna/JavIgna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
