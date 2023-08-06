@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Javier Navarrete
-- 👨‍🎓 Analyst programmer
+- 👋 Hi, I’m Javier Navarrete, analyst programmer
 - 📫 Contact me by email javignavarrete@gmail.com
 - 👨‍💻 I currently work as a FullStack Development with Vue.js
 - 👀 I’m interested in working with various programming languages
