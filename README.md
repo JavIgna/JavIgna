@@ -1,10 +1,30 @@
-- 👋 Hi, I’m Javier Navarrete, analyst programmer
-- 📫 Contact me by email javignavarrete@gmail.com
-- 💞️ I’m looking to collaborate on projects that allow me to apply and learn new technologies
-- 👨‍💻 I currently work as FullStack Development with Vue.js
-- 👀 I’m interested in working with various programming languages
-- 🌱 I’m currently learning React.js and Firebase.
-- 💻 I have knowledge in Vue.js, Node.js, Laravel, Bootstrap, PHP, JAVA and Arduino
+# 👋 Hi, I’m Javier Navarrete
+
+## 🧑‍💻 About Me
+I am an Analyst Programmer and Full Stack Developer with a passion for learning and working with new technologies. I have a strong foundation in web development and experience working with various frameworks and programming languages.
+
+## 🌟 What I Do
+- **Full Stack Development:** Currently improving projects with Vue.js and Laravel.
+- **Backend:** Node.js, Laravel, PHP, Express, NestJS.
+- **Frontend:** Vue.js, Bootstrap, Angular, Astro, jQuery, React.
+- **Mobile Development:** React Native.
+- **DevOps:** Docker.
+- **Project Management:** Jira, working based on sprints, following Scrum methodology.
+
+## 🚀 Skills
+- **Languages:** JavaScript, PHP, Java.
+- **Frameworks:** Vue.js, Node.js, Laravel, Express, Angular, NestJS, React.
+- **Tools:** Bootstrap, Firebase, Docker, Jira, jQuery.
+- **Others:** Astro, Arduino, Git, MySQL.
+
+## 🌱 What I'm Learning
+- Deepening my knowledge in **React.js**, **Firebase**, **Angular**, **NestJS**, and **Astro** to expand my frontend and backend capabilities.
+
+## 👀 Interests
+I am always looking for opportunities to apply and continually improve the knowledge I have, face new challenges that allow me to grow professionally, and collaborate on projects that challenge me and let me use what I’ve learned.
+
+## 📫 Get in Touch
+Feel free to reach out to me via email at **javignavarrete@gmail.com**. I’m open to collaboration and new opportunities.
 
 <!---
 JavIgna/JavIgna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
